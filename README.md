@@ -17,12 +17,8 @@
 - ABOUT ME
 - SKILLS
 - PROJECTS
-<<<<<<< HEAD
-
-=======
 - EDUCATION
 - CONTACTS
->>>>>>> 0ea4609ff1bf9710ef259de0ed511dec62b2eb7e
 
 ---
 
@@ -104,14 +100,4 @@ export const personalData = {
   linkedIn: "https://www.linkedin.com/in/sajan-kumar-750b442a5/",
   resume: "...",
 };
-```
-<<<<<<< HEAD
 
-`devUsername` Used for fetching blog from `dev.to`.
-
----
-
----
-
-=======
->>>>>>> 0ea4609ff1bf9710ef259de0ed511dec62b2eb7e
