@@ -7,10 +7,7 @@
 - [Demo](#demo-movie_camera)
 - [Installation](#installation-arrow_down)
 - [Getting Started](#getting-started-dart)
-<<<<<<< HEAD
-=======
 - [Usage](#usage-joystick)
->>>>>>> 0ea4609ff1bf9710ef259de0ed511dec62b2eb7e
 
 ---
 
