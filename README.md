@@ -3,9 +3,6 @@
 ---
 # Demo :movie_camera:
 
-![](./public/image/screen.png)
----
-
 ## Table of Contents :scroll:
 
 - [Sections](#sections-bookmark)
